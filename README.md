@@ -21,7 +21,7 @@
 - ReactJS
 
 ## 🖥️ Live Demo
-- [Netlify](https://qoosim-meal-reviews-refactor.netlify.app/) :point_left:
+- [Netlify]() :point_left:
 
 ## Getting Started
 
